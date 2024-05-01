@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">rotateimage</string>
+    <string name="rotate_button_description">Rotate Image</string>
+
+</resources>
